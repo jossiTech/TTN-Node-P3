@@ -1,0 +1,18 @@
+DRAFT
+
+
+
+From Evalutation to Product
+
+Evaluation Board with Enclosure, bringing most Ports to outside:
+
+* 1-Wire-Bus
+* I2C
+* Relais Port
+* DHT11 Socket for temperature and humidity
+* USB-B-Port for Input voltage
+* SMA-Connector for Antenna
+
+- On the PCB is also a Port for connecting a FTDI-Module to upload new sketches.
+- The 328P comes with a Arduino Bootloader xyz
+- Choose Arduino Nano 328P in the IDE when uploading new sketches
