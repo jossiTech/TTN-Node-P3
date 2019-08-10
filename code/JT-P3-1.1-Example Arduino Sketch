@@ -22,9 +22,9 @@
   DallasTemperature sensor(&oneWire);
 //prepare 1-Wire-Busses (16 for JT-P3)##################
 
-//prepare DHT11-Sensor (14 for JT-P3)###################
+//prepare DHT11/22-Sensor (14 for JT-P3)################
   DHT dht11(14, DHT11);
-//prepare DHT11-Sensor (JT-P3: (IDE Nano, 328p) Port 14, Typ DHT11############
+//prepare DHT11/22-Sensor (JT-P3: (IDE Nano, 328p) Port 14, Typ DHT11##########
 
 // Support for CayenneLPP Dataformat####################
   CayenneLPP lpp(51);
